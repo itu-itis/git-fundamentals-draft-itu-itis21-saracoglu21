@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes [MODIFIED BY MURAT ARDA SARACOĞLU , 150210704]
+## 🤓 Course overview and learning outcomes [UPDATED LOCALLY PUSHED REMOTELY BY MURAT ARDA SARACOĞLU , 150210704 at 11.06, 25.10.2021]
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
