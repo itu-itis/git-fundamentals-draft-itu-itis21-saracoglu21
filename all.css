@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 			h1 	{
-=======
-			h1 	{		
->>>>>>> 2b647f7d349473466bdebfad9ce896d2d0ea66dd
 				font-size: 24pt;
 				color: red;
 				text-decoration: none;
@@ -11,12 +7,7 @@
 				border: thick solid red;
 				padding: 1ex;
 				width: 50%;
-<<<<<<< HEAD
-				
-				}
-=======
 				}	
->>>>>>> 2b647f7d349473466bdebfad9ce896d2d0ea66dd
 			em	{
 				font-style: normal;
 				color: green;
@@ -28,8 +19,6 @@
 			}
 			a :hover {
 				text-decoration: none;
-<<<<<<< HEAD
-=======
 			}
 			li:first-child{
 				border: thick solid green;
@@ -41,10 +30,9 @@
 			p.centered{
 				text-align: center;
 				width: 50%;
->>>>>>> 2b647f7d349473466bdebfad9ce896d2d0ea66dd
 			}
 			li:first-child{
-				border: thick solid green;
+				border: thick solid blue);
 				margin-bottom: 1em;
 				margin-top: 1em;
 				padding: 1ex;
